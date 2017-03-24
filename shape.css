@@ -1,0 +1,12 @@
+body {
+    color: #fff;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 200%;
+    font-family: sans-serif;
+
+    background-color: #FCFA90;
+    background-image:URL("http://img2.stockfresh.com/files/i/inxti/m/23/1965524_47641402.jpg");
+    background-repeat: repeat;
+    background-position: top right;
+}
