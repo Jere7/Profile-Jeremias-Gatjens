@@ -5,8 +5,14 @@ body {
     line-height: 200%;
     font-family: sans-serif;
 
-    background-color: #FCFA90;
-    background-image:URL("http://img2.stockfresh.com/files/i/inxti/m/23/1965524_47641402.jpg");
+    background-color:grey;
+    background-image:URL("https://thumbs.dreamstime.com/z/wooden-arrow-sign-post-road-signpost-board-old-panel-made-wood-isolated-40676056.jpg");
     background-repeat: repeat;
     background-position: top right;
+}
+header {
+    text-align: center;
+}
+nav {
+    text-decoration: underline;
 }
