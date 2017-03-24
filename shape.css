@@ -31,6 +31,7 @@ aside {
     text-align: center;
 }
 h2 {
+    color: violet;
     font-size: 17px;
     text-align: center;
 }
@@ -38,6 +39,8 @@ p {
     text-align: center;
 }
 footer {
+    color: lightgreen;
     text-align: center;
     font-size: 25px;
+    text-decoration: line-through;
 }
