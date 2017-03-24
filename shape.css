@@ -11,19 +11,19 @@ body {
     background-position: top right;
 }
 .wrapper {
-    
     padding: 0px 10px 10px 50px;
 
 }
 header {
-    text-align: center;
-    
+    text-align: center;   
 }
 nav {
+    
     font-size: 20px;
     text-align: center;
     text-decoration: underline;
 }
+
 hr {
     font-size: 20px;
 }
