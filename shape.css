@@ -10,8 +10,14 @@ body {
     background-repeat: repeat;
     background-position: top right;
 }
+.wrapper {
+    
+    padding: 0px 10px 10px 50px;
+
+}
 header {
     text-align: center;
+    
 }
 nav {
     font-size: 20px;
@@ -22,8 +28,9 @@ hr {
     font-size: 20px;
 }
 main {
-    width: 400px;
-    height: 350px;
+    
+    text-align: center:    
+    
 }
 
 aside {
@@ -37,10 +44,14 @@ h2 {
 }
 p {
     text-align: center;
+    padding-bottom: 10px; 
 }
 footer {
+    background-size: 50%;
+    background-image:URL("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOB2ajtJHvhJUO0EruFkdgIiq-TfJLbyRWz391lReoKnkxai3j");
     color: lightgreen;
     text-align: center;
-    font-size: 25px;
-    text-decoration: line-through;
+    font-size: 15px;
+    text-decoration: underline;
+    padding-bottom: 10px; 
 }
