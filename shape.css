@@ -1,4 +1,6 @@
 body {
+    border: 15px;
+    border-color: black;
     color: #fff;
     font-weight: normal;
     font-size: 10px;
@@ -15,6 +17,7 @@ body {
 
 }
 header {
+    
     text-align: center;   
 }
 nav {
@@ -46,12 +49,19 @@ p {
     text-align: center;
     padding-bottom: 10px; 
 }
-footer {
-    background-size: 50%;
+footer { 
+    
+    background-size: 100%;
     background-image:URL("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOB2ajtJHvhJUO0EruFkdgIiq-TfJLbyRWz391lReoKnkxai3j");
     color: lightgreen;
     text-align: center;
     font-size: 15px;
     text-decoration: underline;
     padding-bottom: 10px; 
+}
+
+img {
+    display: block;
+    height: 30%;
+    width: 40%;
 }
